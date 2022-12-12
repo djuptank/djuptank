@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @djuptank
-- 👀 I’m interested in radio propagation 
-      and antennas
+- 👀 I’m interested in radio propagation and antennas. My call sign is SA0PEJ
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on 
-     simulating and developing
-     antennas
+     simulating and developing loop antennas
 - 📫 How to reach me janne.frank@me.com
 
 <!---
